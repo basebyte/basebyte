@@ -8,3 +8,5 @@
 basebyte/basebyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![Join the chat at https://gitter.im/basebyte/basebyte](https://badges.gitter.im/basebyte/basebyte.svg)](https://gitter.im/basebyte/basebyte?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
