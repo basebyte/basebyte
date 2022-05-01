@@ -1,11 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/basebyte/basebyte/main/giphy-penguin.gif" width="100"/></p>
 <p align="center">
-<a href="https://discord.com/channels/969088108706529340"><img src="https://img.shields.io/discord/969088108706529340?style=plastic" alt="Discord Badge"></a>
-<a href="https://www.reddit.com/user/basebytes"><img src="https://img.shields.io/reddit/user-karma/combined/basebytes?style=social" alt="Reddit Badge"></a>
 <a href="https://keybase.io/basebyte"><img src="https://img.shields.io/keybase/pgp/basebyte" alt="Keybase Badge"></a>
 </p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/basebyte/basebyte/main/giphy-banner.gif" width="600" height="300"  /></p>
 
 ### :man_technologist: &nbsp;About Me :
 
@@ -13,7 +9,13 @@
 - 👀 I’m interested in DIY, Embedded Hardware/Software, Programming and Linux...
 - 🌱 I’m currently learning C#, C++, Shell, Embedded Hardware...
 - 🔭 I’m Exploring Technical Content Writing...
-- 📫 Reach me at:  [![Gitter](https://badges.gitter.im/basebyte/basebyte.svg)](https://gitter.im/basebyte/basebyte?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Twitter Follow](https://img.shields.io/twitter/follow/basebytes?style=social&logo=twitter)](https://twitter.com/basebytes) 
+- 📫 Reach me at: 
+    - [<img src='https://user-images.githubusercontent.com/75151114/166128838-1a499a16-9002-4c39-8db3-442dd00ca04a.svg' style='display: inline-block; width: 16px; font-size: 1em; font-style: normal !important; font-weight: 400; line-height: 1; vertical-align: -0.075em;' /> basebyte](https://gitter.im/basebyte/basebyte)
+    - [<img src='https://user-images.githubusercontent.com/75151114/166128940-c993e6ce-2976-43f3-873d-3ea94b8e4122.svg' style='display: inline-block; width: 16px; font-size: 1em; font-style: normal !important; font-weight: 400; line-height: 1; vertical-align: -0.075em;' /> basebyte](https://discord.com/channels/969088108706529340)  
+    - [<img src='https://user-images.githubusercontent.com/9093649/164908920-6832c7f1-b1a7-458b-85c3-f069f78d9435.png' style='display: inline-block; width: 16px; font-size: 1em; font-style: normal !important; font-weight: 400; line-height: 1; vertical-align: -0.075em;' /> basebyte](https://www.linkedin.com/in/basebyte/) 
+    - [<img src='https://user-images.githubusercontent.com/75151114/166128942-d4e8b60d-e3df-4054-bf20-f603c6b168ac.svg' style='display: inline-block; width: 16px; font-size: 1em; font-style: normal !important; font-weight: 400; line-height: 1; vertical-align: -0.075em;' /> basebytes](https://www.reddit.com/user/basebytes)
+    - [<img src='https://user-images.githubusercontent.com/9093649/164793012-6ce60297-bc6b-4233-aa17-52743d7cd35f.svg' style='display: inline-block; width: 16px; font-size: 1em; font-style: normal !important; font-weight: 400; line-height: 1; vertical-align: -0.075em;' /> @basebytes](https://twitter.com/basebytes)
+
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
