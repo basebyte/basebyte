@@ -9,9 +9,9 @@
 - 👀 I’m interested in DIY, Embedded Hardware/Software, Programming and Linux...
 - 🌱 I’m currently learning C#, C++, Shell, Embedded Hardware...
 - 🔭 I’m Exploring Technical Content Writing...
-- 🔒 My GPG Key is <a href="https://keybase.io/basebyte"><span class="even">1214</span><span class="odd">8AE3</span><span class="even">4BA8</span><span class="odd">3B49</span></a>
+- 🔒 My GPG Key is [1214 8AE3 4BA8 3B49](https://keybase.io/basebyte)
 - ✉ My Email is basebyte<kbd>Shift</kbd>+<kbd>2</kbd>pm.me
-- 📫 Reach me at: 
+- 📫 Or reach me at: 
     - [<img src='https://user-images.githubusercontent.com/75151114/166128838-1a499a16-9002-4c39-8db3-442dd00ca04a.svg' style='display: inline-block; width: 16px; font-size: 1em; font-style: normal !important; font-weight: 400; line-height: 1; vertical-align: -0.075em;' /> basebyte](https://gitter.im/basebyte/basebyte)
     - [<img src='https://user-images.githubusercontent.com/75151114/166128940-c993e6ce-2976-43f3-873d-3ea94b8e4122.svg' style='display: inline-block; width: 16px; font-size: 1em; font-style: normal !important; font-weight: 400; line-height: 1; vertical-align: -0.075em;' /> basebyte](https://discord.com/channels/969088108706529340)  
     - [<img src='https://user-images.githubusercontent.com/9093649/164908920-6832c7f1-b1a7-458b-85c3-f069f78d9435.png' style='display: inline-block; width: 16px; font-size: 1em; font-style: normal !important; font-weight: 400; line-height: 1; vertical-align: -0.075em;' /> basebyte](https://www.linkedin.com/in/basebyte/) 
