@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/basebyte/basebyte/main/giphy-penguin.gif" width="100"/></p>
 <p align="center">
-<a href="https://keybase.io/basebyte"><img src="https://img.shields.io/keybase/pgp/basebyte" alt="Keybase Badge"></a>
+
 </p>
 
 ### :man_technologist: &nbsp;About Me :
@@ -9,6 +9,8 @@
 - 👀 I’m interested in DIY, Embedded Hardware/Software, Programming and Linux...
 - 🌱 I’m currently learning C#, C++, Shell, Embedded Hardware...
 - 🔭 I’m Exploring Technical Content Writing...
+- 🔒 My GPG Key is <a href="https://keybase.io/basebyte"><span class="even">1214</span><span class="odd">8AE3</span><span class="even">4BA8</span><span class="odd">3B49</span></a>
+- ✉ My Email is basebyte<kbd>Shift</kbd>+<kbd>2</kbd>pm.me
 - 📫 Reach me at: 
     - [<img src='https://user-images.githubusercontent.com/75151114/166128838-1a499a16-9002-4c39-8db3-442dd00ca04a.svg' style='display: inline-block; width: 16px; font-size: 1em; font-style: normal !important; font-weight: 400; line-height: 1; vertical-align: -0.075em;' /> basebyte](https://gitter.im/basebyte/basebyte)
     - [<img src='https://user-images.githubusercontent.com/75151114/166128940-c993e6ce-2976-43f3-873d-3ea94b8e4122.svg' style='display: inline-block; width: 16px; font-size: 1em; font-style: normal !important; font-weight: 400; line-height: 1; vertical-align: -0.075em;' /> basebyte](https://discord.com/channels/969088108706529340)  
